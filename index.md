@@ -1,89 +1,56 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>A/B Testing Tutorial</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>A/B Testing Tutorial</h1>
-        <p>Learn the art and science of experimentation from real-world experience.</p>
-    </header>
+# Forecasting Consulting Services
 
-    <nav>
-        <ul>
-            <li><a href="#introduction">Introduction</a></li>
-            <li><a href="#control-group">Control Group and Design of Experiments</a></li>
-            <li><a href="#calculator">Sample Size Calculator</a></li>
-            <li><a href="#ui-testing">UI Testing and Experimentation</a></li>
-            <li><a href="#mistakes">Common Mistakes</a></li>
-        </ul>
-    </nav>
+## Welcome to My Forecasting Solutions
+I specialize in **budget forecasting** and **automation solutions** tailored for small to mid-sized companies. With years of experience in data analysis and operational efficiency, I help businesses make informed decisions and streamline their processes.
 
-    <main>
-        <section id="introduction">
-            <h2>Introduction</h2>
-            <p>A/B testing is a powerful method for making data-informed decisions. Through this tutorial, I share my experiences designing and analyzing experiments that have driven impactful results.</p>
-        </section>
+---
 
-        <section id="control-group">
-            <h2>Control Group and Design of Experiments</h2>
-            <p>The control group serves as the baseline in any A/B test. Concepts like ANOVA (Analysis of Variance) and factorial design help analyze results when multiple variables are at play.</p>
-            <p><strong>Key Tips:</strong></p>
-            <ul>
-                <li>Ensure random assignment to control and test groups.</li>
-                <li>Use factorial designs for complex experiments.</li>
-                <li>Analyze results using statistical tools like Python or Excel.</li>
-            </ul>
-        </section>
+## Why Work with Me?
 
-        <section id="calculator">
-            <h2>Sample Size Calculator</h2>
-            <p>Use the calculator below to determine the required sample size for your experiment.</p>
-            <form>
-                <label for="baseline-conversion">Baseline Conversion Rate (%):</label>
-                <input type="number" id="baseline-conversion" step="0.01" placeholder="e.g., 10">
-                <br>
+- **Accurate Forecasting:** Leveraging advanced statistical models and data analysis, I deliver reliable budget forecasts.
+- **Automation Expertise:** My experience includes building automated solutions using tools like Python, SQL, and Tableau.
+- **Tailored Solutions:** My diverse background, including roles in finance, retail, and technology, ensures I provide strategies aligned with your business needs.
+- **Proven Experience:** Having worked for companies like Capital One and Paramount Commerce, I bring real-world expertise in driving measurable improvements.
 
-                <label for="expected-uplift">Expected Uplift (%):</label>
-                <input type="number" id="expected-uplift" step="0.01" placeholder="e.g., 5">
-                <br>
+---
 
-                <label for="confidence-level">Confidence Level (%):</label>
-                <input type="number" id="confidence-level" step="1" placeholder="e.g., 95">
-                <br>
+## My Services
 
-                <label for="power">Statistical Power (%):</label>
-                <input type="number" id="power" step="1" placeholder="e.g., 80">
-                <br>
+### Budget Forecasting
+- **Short-term and Long-term Forecasts:** Clarity on financial planning through data-driven methods.
+- **Scenario Analysis:** Insights into potential business strategies and their impacts.
+- **Custom Reports:** Aesthetic, actionable reports using Power BI and Tableau.
 
-                <button type="button" onclick="calculateSampleSize()">Calculate</button>
-            </form>
-            <p id="sample-size-result"></p>
-        </section>
+### Forecasting Automation
+- **Automated Dashboards:** Built-in Power BI and Tableau for real-time budget and expense tracking.
+- **Custom Script Solutions:** Automated processes through Python and SQL scripts for efficiency.
+- **Integration:** Seamlessly connecting forecasting tools with platforms like AWS and Azure.
 
-        <section id="ui-testing">
-            <h2>UI Testing and Experimentation</h2>
-            <p>Experiment with different UI elements such as button colors, headlines, or layouts. Visualize how small changes can impact user behavior.</p>
-            <img src="ui-testing-example.jpg" alt="Example of UI Testing">
-        </section>
+---
 
-        <section id="mistakes">
-            <h2>Common Mistakes in A/B Testing</h2>
-            <ul>
-                <li>Ending tests too early due to insufficient data.</li>
-                <li>Testing multiple changes at once without isolating variables.</li>
-                <li>Ignoring statistical significance when interpreting results.</li>
-            </ul>
-        </section>
-    </main>
+## Tools and Technologies
+- **BI Tools:** Power BI, Tableau, Excel
+- **Data Analysis:** Python, SQL, Pandas
+- **Cloud Platforms:** AWS, Azure
 
-    <footer>
-        <p>Written by Sidharth Oommen | <a href="mailto:sidharthoomman@gmail.com">Contact Me</a> | <a href="https://linkedin.com/in/sidharth84">LinkedIn</a></p>
-    </footer>
+---
 
-    <script src="script.js"></script>
-</body>
-</html>
+## Success Stories
+
+### Finance Industry
+"Managed a team at Capital One to forecast staffing needs for 500+ employees, improving resource allocation and SLA targets."
+
+### Payment Products Optimization
+"At Paramount Commerce, I forecasted hourly conversions and identified anomalies using machine learning models, enabling timely interventions."
+
+### Retail Optimization
+"Built SaaS software to optimize SKU placements, leading to enhanced customer shopping experiences and operational efficiency."
+
+---
+
+## Let’s Connect
+
+📧 [sidharthoomman@gmail.com](mailto:sidharthoomman@gmail.com)  
+🔗 [LinkedIn Profile](https://linkedin.com/in/sidharth84)
+
+Let’s discuss how I can help your business achieve its financial goals with accurate forecasting and automation!
